@@ -13,7 +13,7 @@ Build the application
 1. `get_courses`
    - Get courses
 
-#### NPX
+#### Java configuration in LLM config file
 
 ```json
 {
@@ -22,7 +22,7 @@ Build the application
       "command": "java",
       "args": [
         "-jar",
-        "/Users/username/Downloads/courses/target/courses-0.0.1=SNAPSHOT.jar"
+        "/Users/username/Downloads/courses/target/courses-0.0.1-SNAPSHOT.jar"
       ]
     }
   }
